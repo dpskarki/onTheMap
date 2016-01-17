@@ -20,8 +20,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
         
         // Initialize Parse.
-        Parse.setApplicationId("J6DkKxIlsFduBQyeS0pJfMNFOfhmA6uSqlQ0u5PE",
-            clientKey: "cDfKwrdth9CYq2vsdj1EJ6X0uYcnh3FaOO09Ixsr")
+        Parse.setApplicationId("aRXeNnmqXsMtvqTVmeKFgt6fLQb7zYdJB0HIGxh2",
+            clientKey: "ebDTaLUycSwwagzRW4NTejlTtgr2NskPlMYkQJgB")
         
         // [Optional] Track statistics around application opens.
         PFAnalytics.trackAppOpenedWithLaunchOptions(launchOptions)
